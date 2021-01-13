@@ -1,0 +1,14 @@
+<pojo.Central>
+  <locadoresCadastrados>
+    <pojo.Locador>
+      <sexo></sexo>
+      <idade>0</idade>
+    </pojo.Locador>
+  </locadoresCadastrados>
+  <bensCadastrados/>
+  <locatario>
+    <sexo></sexo>
+    <idade>0</idade>
+  </locatario>
+  <usuarioLogado></usuarioLogado>
+</pojo.Central>
